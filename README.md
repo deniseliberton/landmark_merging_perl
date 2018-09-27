@@ -3,7 +3,7 @@ Various Landmark Coordinate Merging scripts (GetPoints)
 
 These are Perl scripts for merging landmark coordinate files acquired from MeshLab, Landmark Editor, or Avizo for geometric morphometric or euclidean distance analysis. 
 
-Input: Folder of multiple XYZ coordinate files.
+Input: Folder of multiple XYZ coordinate files, with each file belonging to a unique specimen or trial.
 
 Output: Single text file with each specimen on a single row.
 
